@@ -1,6 +1,6 @@
 ---
 title: "Hello world example"
-author: "Christer"
+author: "Christer. dfdf "
 date: "2025-02-04"
 output:
   html_document:
